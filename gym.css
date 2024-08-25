@@ -125,7 +125,7 @@ nav ul li a:hover {
 }
 
 section {
-    background: url('background.jpg') no-repeat center center;
+    background: url('https://i.ibb.co/nDcbLGf/background.jpg') no-repeat center center;
     background-size: cover;
     height: calc(100vh - 100px); /* Adjusted to accommodate new navbar height */
     margin-top: 100px; /* Ensure content doesn't go under navbar */
